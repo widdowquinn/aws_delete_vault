@@ -1,0 +1,5 @@
+# Python distribution files
+*.egg-info/
+
+# Python files
+__pycache__/
